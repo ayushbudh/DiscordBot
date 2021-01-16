@@ -13,7 +13,7 @@ client = discord.Client()
 sad_words = ["sad","depressed", "unhappy", "miserable", "depressing"]
 
 starter_encouragements = [
-  "Cheer up!", "Hang in there.", "Your are a great person / bot!"
+  "Cheer up!", "Hang in there.", "Your are a great person! - bot :)"
 ]
 
 if "responding" not in db.keys():
